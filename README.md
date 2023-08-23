@@ -19,9 +19,6 @@
 - 📫 How to reach me **abhradip360saha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
      <a href="https://twitter.com/abhradip_saha_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/abhradip-saha-3780ab22a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhradip_saha_" target="blank"><img src="https://img.shields.io/twitter/follow/abhradip_saha_?logo=twitter&style=for-the-badge" alt="abhradip_saha_" /></a> </p>
 
-- 🔭 I’m currently working on **Competitive Programming & Data Structures and Algorithm**
+- 🔭 I’m currently working on **Competitive Programming & Data Structures and Algorithms**
 
 - 🤝 I’m looking to collaborate on **LinkedIn**
 

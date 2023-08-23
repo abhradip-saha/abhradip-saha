@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-08-24 at 00 19 01](https://github.com/abhradip-saha/abhradip-saha/assets/110524706/9f56c245-1f01-44bb-acf6-f0e677c524b8)
 
 <h1 align="center">Hi 👋, I'm Abhradip Saha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

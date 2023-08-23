@@ -19,14 +19,23 @@
 - 📫 How to reach me **abhradip360saha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+     <a href="https://twitter.com/abhradip_saha_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/abhradip-saha-3780ab22a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/abhradip_saha" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+      <a href="https://fb.com/roads.to.glory.9" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
+
+<!--<p align="left">
 <a href="https://twitter.com/abhradip_saha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhradip_saha_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhradip-saha-3780ab22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhradip-saha-3780ab22a" height="30" width="40" /></a>
 <a href="https://fb.com/roads.to.glory.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roads.to.glory.9" height="30" width="40" /></a>
 <a href="https://instagram.com/abhradip_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhradip_saha" height="30" width="40" /></a>
 
   
-<!--<a href="https://www.codechef.com/users/abhradip_360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhradip_360" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhradip_360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhradip_360" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abhradip_360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhradip_360" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhradip_360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhradip_360" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhradip_360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhradip_360" height="30" width="40" /></a>-->

@@ -45,7 +45,7 @@
 <p align="left">
      
 [![Codechef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/abhradip_360) [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/abhradip_360/) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhradip_360)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhradip-saha&" alt="abhradip-saha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhradip-saha&layout=compact" alt="abhradip-saha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhradip-saha&" alt="abhradip-saha" /></p>
 

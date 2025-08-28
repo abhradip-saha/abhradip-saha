@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-08-24 at 00 19 01](https://github.com/abhradip-saha/abhradip-saha/assets/110524706/9f56c245-1f01-44bb-acf6-f0e677c524b8)
+<img width="1584" height="396" alt="Black Minimal Motivation Quote LinkedIn Banner" src="https://github.com/user-attachments/assets/54e4bb83-55cc-42ee-b684-621f84e4b2c7" />
 
 <h1 align="center">Hi 👋, I'm Abhradip Saha</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
